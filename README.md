@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hryvacheuski/" width="350" title="hover text"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="350" alt="accessibility text">
-</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/>
+# My cool project and above is the logo of it
