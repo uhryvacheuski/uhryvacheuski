@@ -5,7 +5,7 @@ Hello there, I'm Uladzislau
 - 👀 Student of Gdansk University of Technology
 - 🌱 Member of Scientific Circle Data Science Club
 - 💞️ Like to solve complicated tasks, especially ML and Data Science tasks
-- 📫 How to reach me ...
+- 📫 I like to play the guitar (and other music instruments) at my free time
 
 <!---
 uhryvacheuski/uhryvacheuski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
