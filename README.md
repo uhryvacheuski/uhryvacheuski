@@ -1,4 +1,4 @@
-Hello there, I'm Uladzislau
+<b>Hello there, I'm Uladzislau</b>
 <h1>I'm looking for internship opportunities in ML/AI</h1>
 
 - 👋 Working as Market Analyst @ Refinitiv, LSEG Business
