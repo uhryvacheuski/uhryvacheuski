@@ -21,6 +21,7 @@
 <img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
 
 <h3>Education</h3>
+
 - Gdansk University of Technology. Economic Analytics. 2021 - 2023
 
 - Univeristy of Gdansk. Finance and Accounting. Bachelor's degree. 2018-2021
