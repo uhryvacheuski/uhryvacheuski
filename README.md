@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Connect with me</h2>
 
-<img width="75" height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/>
-# My cool project and above is the logo of it
+<img href="https://www.linkedin.com/in/hryvacheuski/" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/> <img width="50" height="50" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="My cool logo"/>
+
