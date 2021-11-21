@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Connect with me</h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/>
+<img width="75" height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/>
 # My cool project and above is the logo of it
