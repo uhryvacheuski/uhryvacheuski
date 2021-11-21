@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 <img href="https://www.linkedin.com/in/hryvacheuski/" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/> <img width="50" height="50" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="My cool logo"/>
 
 <img width="55" height="33" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="My cool logo"/>
+<img width="55" height="55" src="https://mpng.subpng.com/20190328/xcl/kisspng-europython-logo-programming-language-portable-netw-join-our-team-job-opportunities-sample-solutions-5c9d90c3c63625.6121225015538300838119.jpg" alt="My cool logo"/>
