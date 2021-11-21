@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Connect with me</h2>
 
-<img href="https://www.linkedin.com/in/hryvacheuski/" width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/> <img  width="5%" height="5%" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="My cool logo"/>
+<a href="https://www.linkedin.com/in/hryvacheuski/"><img width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/></a> <img  width="5%" height="5%" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="My cool logo"/>
 
 <h2>Languages and Tools</h2>
 
