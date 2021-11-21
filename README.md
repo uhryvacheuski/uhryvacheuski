@@ -22,4 +22,5 @@
 
 <h3>Education</h3>
 - Gdansk University of Technology. Economic Analytics. 2021 - 2023
+
 - Univeristy of Gdansk. Finance and Accounting. Bachelor's degree. 2018-2021
