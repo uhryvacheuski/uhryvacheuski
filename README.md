@@ -19,5 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Languages and Tools</h2>
 
-<img  width="5%" height="5%" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="My cool logo"/> <img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
+<img  width="10%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="My cool logo"/> 
+
+<img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
+
 <img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
