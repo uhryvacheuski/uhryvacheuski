@@ -1,3 +1,6 @@
+Hello there, I'm Uladzislau
+<h1>I'm looking for internship opportunities in ML/AI</h1>
+
 - 👋 Hi, I’m @uhryvacheuski
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
