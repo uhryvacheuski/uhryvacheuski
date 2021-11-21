@@ -2,6 +2,7 @@
 <h1>I'm looking for internship opportunities in Machine Learning/Artificial Intelligence</h1>
 
 - 👋 Working as Market Analyst @ Refinitiv, LSEG Business
+- 👀 Bachalor of Finance and Accounting
 - 👀 Student of Gdansk University of Technology
 - 🌱 Member of Scientific Circle Data Science Club
 - 💞️ Like to solve complicated tasks, especially ML and Data Science tasks
