@@ -4,7 +4,7 @@ Hello there, I'm Uladzislau
 - 👋 Working as Market Analyst @ Refinitiv, LSEG Business
 - 👀 Student of Gdansk University of Technology
 - 🌱 Member of Scientific Circle Data Science Club
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Like to solve complicated tasks, especially ML and Data Science tasks
 - 📫 How to reach me ...
 
 <!---
