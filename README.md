@@ -1,5 +1,5 @@
 <b>Hello there, I'm Uladzislau</b>
-<h1>I'm looking for internship opportunities in Machine Learning/Artificial Intelligence</h1>
+<h1>I'm looking for opportunities in Machine Learning/Artificial Intelligence</h1>
 
 - 👋 Working as Market Analyst @ Refinitiv, LSEG Business
 - 🎓 Bachelor's degree in Finance and Accounting
