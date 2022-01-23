@@ -3,10 +3,10 @@
 
 - 👋 Working as Market Analyst @ Refinitiv, LSEG Business
 - 🎓 Bachelor's degree in Finance and Accounting
-- 📕Student of Gdansk University of Technology
-- 🔍Member of Scientific Circle Data Science Club
-- 🧮Like to solve complicated tasks, especially ML and Data Science tasks
-- 🎸I like to play the guitar (and other music instruments) at my free time
+- 📕 Student of Gdansk University of Technology
+- 🔍 Member of Scientific Circle Data Science Club
+- 🧮 Like to solve complicated tasks, especially ML and Data Science tasks
+- 🎸 I like to play the guitar (and other music instruments) at my free time
 
 <h2>Connect with me</h2>
 
