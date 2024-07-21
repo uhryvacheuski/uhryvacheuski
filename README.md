@@ -1,5 +1,4 @@
 <b>Hello there, I'm Uladzislau</b>
-<h1>I'm looking for opportunities in Machine Learning/Artificial Intelligence</h1>
 
 - 👋 Working as Actuarial Analyst @ EY
 - 🎓 Bachelor's degree in Finance and Accounting
