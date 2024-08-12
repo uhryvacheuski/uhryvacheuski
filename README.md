@@ -1,9 +1,6 @@
-<b>Hello there, I'm Uladzislau</b>
+<b>Hello there, I'm Władysław</b>
 
-- 👋 Working as Actuarial Analyst @ EY
-- 🎓 Bachelor's degree in Finance and Accounting
-- 📕 Student of Gdansk University of Technology
-- 🔍 Member of Scientific Circle Data Science Club
+- 👋 Working as Data & Analytics Consultant  @ EY
 - 🧮 Like to solve complicated tasks, especially ML and Data Science tasks
 - 🎸 I like to play the guitar (and other music instruments) at my free time
 
