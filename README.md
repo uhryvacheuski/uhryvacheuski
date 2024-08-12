@@ -1,8 +1,6 @@
 <b>Hello there, I'm Władysław</b>
 
-- 👋 Working as Data & Analytics Consultant  @ EY
-- 🧮 Like to solve complicated tasks, especially ML and Data Science tasks
-- 🎸 I like to play the guitar (and other music instruments) at my free time
+👋 Working as Data & Analytics Consultant  @ EY
 
 <h2>Connect with me</h2>
 
