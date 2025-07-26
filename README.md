@@ -1,23 +1,75 @@
-<b>Hello there, I'm Władysław</b>
+# 👋 Hi, I'm Władysław Grywaczewski
 
-👋 Working as Data & Analytics Consultant  @ EY
+**Senior AI & Data Consultant**
+📍 Gdańsk, Poland | 🌐 [LinkedIn](https://linkedin.com/in/grywaczewski) | ✉️ wladyslaw.grywaczewski@gmail.com
 
-<h2>Connect with me</h2>
+---
 
-<a href="https://www.linkedin.com/in/hryvacheuski/"><img width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="My cool logo"/></a>
-</br>
-<a href="https://www.instagram.com/hryvacheuski/"><img  width="5%" height="5%" src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="My cool logo"/></a>
+## 🧠 About Me
 
-<h2>Languages and Tools</h2>
+I’m a Senior AI & Data Consultant with 5+ years of experience delivering data-driven solutions across industries including **banking**, **insurance**, **asset management**, and **energy**. I specialize in:
 
-<img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="My cool logo"/> 
+- 🔍 **Generative AI & Large Language Models (LLMs)**
+- 📊 **Data Engineering & Analytics Pipelines**
+- ⚙️ **AI Agent Design and Deployment**
+- ☁️ **Cloud Platforms**: Azure, Databricks, GCP
 
-<img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/> 
+I build intelligent systems that help organizations **automate decisions**, **optimize workflows**, and **unlock insights**—with a strong focus on **efficiency**, **structure**, and **scalability**.
 
-<img  width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+---
 
-<h2>Education</h2>
+## 💼 Experience Highlights
 
-- Gdansk University of Technology. Economic Analytics. 2021 - 2023
+### 🔹 **Senior AI & Data Consultant @ EY** | *2022 – Present*
+Led high-impact AI and analytics projects across Europe:
 
-- Univeristy of Gdansk. Finance and Accounting. Bachelor's degree. 2018-2021
+#### 🧾 Generative AI Benefit Structuring Agent *(🇬🇧)*
+#### ⚖️ Legal Compliance Platform *(🇪🇺)*
+#### 📈 Insurance Pricing & Reserving *(🇵🇱 & 🇬🇧)*
+#### 🧩 Other Projects
+- Databricks-based market data feeds
+- Stress-testing engines and reserving models in `Python`/`C#`
+- Streamlined IFRS 17 financial reporting
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages & Tools:**  
+`Python`, `SQL`, `C#`, `PowerShell`, `LangChain`, `LangGraph`, `DSPy`, `Azure`, `Databricks`, `Streamlit`, `MLFlow`, `Docker`, `Shiny`, `TensorFlow`, `PyTorch`, `ElasticSearch`, `Power BI`
+
+**Core Expertise:**  
+- AI Agents & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- Data Engineering (ETL/ELT, Data Wrangling)  
+- LLM System Design & Evaluation (DeepEval, Reflexion)  
+- CI/CD, GitOps, Unit Testing  
+- Cloud ML (Azure ML, Azure AI, GCP)
+
+**Certifications:**  
+- ✅ Microsoft DP-203: Azure Data Engineer Associate  
+- ✅ Microsoft DP-900: Azure Data Fundamentals
+
+---
+
+## 📈 Career Path
+
+- **Senior Data Consultant**, EY *(2022–Present)*  
+- **Market Analyst**, Refinitiv – LSEG *(2021–2022)*  
+- **Depositary Analyst**, State Street Bank *(2020–2021)*  
+- **National Manager of Financial Intelligence**, BCC *(2020–2021)*
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English – Advanced  
+- 🇵🇱 Polish – Native  
+- 🇷🇺 Russian – Advanced
+
+---
+
+## 📫 Let’s Connect
+
+I'm always open to collaborating on **open-source AI projects**, **contributions**, and **idea exchanges**. Reach out via [LinkedIn](https://linkedin.com/in/grywaczewski) or drop me an email:  
+**📬 wladyslaw.grywaczewski@gmail.com**
