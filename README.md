@@ -47,7 +47,8 @@ Led high-impact AI and analytics projects across Europe:
 - Cloud ML (Azure ML, Azure AI, GCP)
 
 **Certifications:**  
-- ✅ Microsoft DP-203: Azure Data Engineer Associate  
+- ✅ Databricks Certified Generative AI Engineer Associate
+- ✅ Microsoft DP-203: Azure Data Engineer Associate (expired 2024
 - ✅ Microsoft DP-900: Azure Data Fundamentals
 
 ---
